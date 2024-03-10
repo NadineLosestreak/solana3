@@ -1,1 +1,1 @@
-# solana3
+# Module3-Candymachine
